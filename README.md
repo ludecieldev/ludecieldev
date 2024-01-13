@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Unix & C programming**
 
-- 🌱 I’m currently learning **C, python and Kotlin**
+- 🌱 I’m currently learning **C, python and Whatever getting my attention**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ludecieldev](https://github.com/ludecieldev)
 
