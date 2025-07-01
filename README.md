@@ -20,7 +20,7 @@ const ludeciel = {
     location: "France 🇫🇷",
     currentRole: "Creative Developer & 3D Artist",
     passions: ["3D Graphics", "Cybersecurity", "Interactive Applications"],
-    currentlyLearning: ["Advanced Three.js", "WebGL Shaders", "Ethical Hacking"],
+    currentlyLearning: ["Three.js", "C++", "Advanced WebGL"],
     funFact: "I transform ideas into immersive digital experiences 🎨 → 🌐"
 };
 ```
